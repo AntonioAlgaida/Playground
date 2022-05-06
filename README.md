@@ -4,4 +4,4 @@
 ## Playground 0
 I have been playing with Stable_Baselines3 and the Lunar_Lander_v2 environment.
 
-[![See how well it works!](https://www.researchgate.net/figure/Visualization-of-the-lunar-lander-problem_fig1_346302673)](https://github.com/AntonioAlgaida/Playground/blob/3572f488a29a5887692b99647a0df69a410c3fcd/Playground0/Playground0_Lunar_Lander.mp4)
+[![See how well it works!](https://www.researchgate.net/figure/Visualization-of-the-lunar-lander-problem_fig1_346302673)](https://github.com/AntonioAlgaida/Playground/blob/1bfa7cccc16ca3ce7d0de2ea18770029163e34f2/Playground0/Playground0_Lunar_Lander.gif)
